@@ -2,8 +2,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M1nseokSong)](https://github.com/M1nseokSong/github-readme-stats)
 
+:sunglasses: GitHub stats :sunglasses:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M1nseokSong&&show_icons=true&theme=aura)
 
+:sunglasses: skiils :sunglasses:
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 
