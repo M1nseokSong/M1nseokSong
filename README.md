@@ -13,6 +13,7 @@
 :sunglasses: skiils :sunglasses:
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-3776AB?style=flat-square&logo=OpenCV&logoColor=white"/>
 
 
 
