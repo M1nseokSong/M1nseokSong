@@ -8,7 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M1nseokSong&&show_icons=true&theme=aura)
 
 :sunglasses: Skiils :sunglasses:
-<img src="https://img.shields.io/badge/python-#9b7cb6?style=flat-square&logo=#3776AB&logoColor=#6cbb5a"/></a>
+<img src="https://img.shields.io/badge/#3776AB-#9b7cb6?style=flat-square&logo=#3776AB&logoColor=#6cbb5a"/></a>
 
 
 
