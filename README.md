@@ -23,7 +23,7 @@
 </div>
 <div align=center>
   
-<h3> 🏆 Baekjoon solved rank 🏆 </h3>
+<h3>  🏆 Baekjoon solved rank 🏆  </h3>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tdd6123)](https://solved.ac/tdd6123)
 </div>
